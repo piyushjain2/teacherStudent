@@ -49,7 +49,7 @@ class QueryBuilder {
 
     update(table, column, value){
         // QueryBuilder
-        this.query = `Update ${table} set ${column} = ${value}`
+        this.query = `UPDATE ${table} set ${column} = ${value}`
         return this;
     }
     and(){
