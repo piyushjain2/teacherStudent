@@ -1,4 +1,4 @@
-# Ufinity Assessment
+# Teacher Student - Node with MySQL
 ----
 ## 4 APIs have been created
 1. API to register one or more students to a specified teacher.
